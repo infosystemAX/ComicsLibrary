@@ -26,7 +26,8 @@
 # Скріншоти до проекту:
 ![image](https://github.com/infosystemAX/ComicsLibrary/assets/101941157/31657079-41d9-4aab-8515-ff6182a08a58)
 ![image](https://github.com/infosystemAX/ComicsLibrary/assets/101941157/3ec7d7af-d977-4b50-9c29-fccc193fe65e)
-![image](https://github.com/infosystemAX/ComicsLibrary/assets/101941157/5d3a349f-a126-481e-909c-3a536cdb5e0e)
+![image](https://github.com/infosystemAX/ComicsLibrary/assets/101941157/4d9d9974-b303-439c-89aa-c1fd0c59b288)
+
 
 
 
